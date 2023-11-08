@@ -1,6 +1,9 @@
+#pip install cryptography
+
 from cryptography.fernet import Fernet
 
 class Encryptor:
+    
     def __init__(self, key_file_path: str):
         self.key = self.load_key(key_file_path)
 
@@ -27,6 +30,7 @@ class Encryptor:
 
 # Usage example
 if __name__ == '__main__':
+    
     # Path to the key file
     key_path = 'key.txt'
     
