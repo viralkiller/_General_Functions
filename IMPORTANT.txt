@@ -1,0 +1,1 @@
+sql db you need to run the flask_app.py scripy, also MAKE SURE YOU CREATED SQL DIRECTORY!!!
