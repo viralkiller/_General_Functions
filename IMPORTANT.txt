@@ -1,1 +1,2 @@
 sql db you need to run the flask_app.py scripy, also MAKE SURE YOU CREATED SQL DIRECTORY!!!
+pip install Flask-Mail user-agents user-agent user_agents user_agent
